@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0552-student-attendance-record-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0552-student-attendance-record-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Tree
 |  |
