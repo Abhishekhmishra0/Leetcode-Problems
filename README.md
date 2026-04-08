@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
+## Hash Table
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Sorting
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Counting
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Enumeration
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 <!---LeetCode Topics End-->
