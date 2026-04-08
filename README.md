@@ -47,4 +47,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
