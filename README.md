@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
 |  |
@@ -68,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
