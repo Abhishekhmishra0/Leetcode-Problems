@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## String
