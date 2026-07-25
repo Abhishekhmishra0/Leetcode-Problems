@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 ## Graph Theory
