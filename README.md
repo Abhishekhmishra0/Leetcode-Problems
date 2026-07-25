@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 ## Union-Find
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
