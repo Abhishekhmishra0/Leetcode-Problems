@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
