@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
