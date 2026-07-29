@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -63,17 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Enumeration
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 ## Matrix
 |  |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
