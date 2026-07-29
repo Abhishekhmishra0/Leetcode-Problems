@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 ## Greedy
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
