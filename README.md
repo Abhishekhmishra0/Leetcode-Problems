@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
