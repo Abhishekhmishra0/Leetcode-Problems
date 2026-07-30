@@ -8,11 +8,11 @@ public:
             while(!st.empty() && heights[st.top()] >= heights[i]) {
                 st.pop();
             }
-            if(st.empty()) {
-                pse[i] = -1;
+            if(!st.empty()) {
+                pse[i] = st.top();
             }
             else {
-                pse[i] = st.top();
+                pse[i] = -1;
             }
             st.push(i);
         }
@@ -21,17 +21,18 @@ public:
             while(!st.empty() && heights[st.top()] >= heights[i]) {
                 st.pop();
             }
-            if(st.empty()) {
-                nse[i] = n;
+            if(!st.empty()) {
+                nse[i] = st.top();
             }
             else {
-                nse[i] = st.top();
+                nse[i] = n;
             }
             st.push(i);
         }
-        long long ans = 0;
+        int ans = 0;
         for(int i = 0; i < n; i++) {
-            ans = max(ans, (long long)((nse[i] - pse[i] - 1) * 1LL * heights[i]));
+            ans = max(ans, (nse[i] - pse[i] - 1) * heights[i]);
+            cout << ans << endl;
         }
         return ans;
     }
