@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
