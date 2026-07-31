@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -201,10 +202,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
