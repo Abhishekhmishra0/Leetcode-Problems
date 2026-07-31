@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
