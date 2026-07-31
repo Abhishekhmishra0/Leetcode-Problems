@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 ## Union-Find
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
