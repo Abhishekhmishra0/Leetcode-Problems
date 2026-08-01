@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
