@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0552-student-attendance-record-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Tree
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0778-swim-in-rising-water](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Two Pointers
@@ -246,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
