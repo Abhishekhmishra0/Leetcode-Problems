@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Union-Find
 |  |
