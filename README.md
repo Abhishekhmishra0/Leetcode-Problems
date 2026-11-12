@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishekhmishra0/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
